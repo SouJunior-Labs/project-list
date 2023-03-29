@@ -293,7 +293,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 - Product Manager: [Marcus](https://www.linkedin.com/in/marcus-gambogi-493084198/)  
 - QA: [Milena Rocha](https://www.linkedin.com/in/milena-r-8b8414127/) | [Josi Moraes](https://www.linkedin.com/in/josi-moraes/)  
 - Mobile: [Andre](https://www.linkedin.com/in/andremoraesfilho/) | [Jean](https://www.linkedin.com/in/jean-hartmann-50143465/)  
-- UI/UX: [Izabella](https://www.linkedin.com/in/izabella-urias/) | [Júlia Nogueira](https://www.linkedin.com/in/j%C3%BAlia-nogueira/)  
+- UI/UX: [Izabella](https://www.linkedin.com/in/izabella-urias/) | [Júlia Nogueira](https://www.linkedin.com/in/j%C3%BAlia-nogueira/) | [Ryan](https://www.linkedin.com/in/itsryanfelix/)  
 - Agilista: [Priscila](https://www.linkedin.com/in/vazpriscila/)
 
 <hr/>
