@@ -39,13 +39,13 @@
 **Descrição do projeto**: Somos uma plataforma de Streaming Educacional, com conteúdo de qualidade disponibilizado de forma gratuita. Unimos educação e tecnologia, para transformar a forma de aprendizagem, tornando simples e acessível a todos que querem aprender.  
 
 **Equipe**:  
-- Frontend: [Lucas Alves](https://www.linkedin.com/in/lucas-alves-476b281aa/)  |  [André Luiz](https://www.linkedin.com/in/andrelcnunes/) | [Antonio Candido](https://www.linkedin.com/in/antoniolmcandido/)  
-- Backend: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/) | [Jessica Santana](https://www.linkedin.com/in/jessica-santana-developer/) | [Pedro Teles](https://www.linkedin.com/in/pedrohteles/)  
+- Frontend: [Lucas Alves](https://www.linkedin.com/in/lucas-alves-476b281aa/) | [Antonio Candido](https://www.linkedin.com/in/antoniolmcandido/)  
+- Backend: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/) | | [Pedro Teles](https://www.linkedin.com/in/pedrohteles/)  
 - UX/ UI: [Thais Acyole](https://www.linkedin.com/in/flavia-acyole)
-- Product Manager: [Victória Oiticica](https://www.linkedin.com/in/victoria-oiticica/)  
+- Product Manager: Em aberto  
 - Agilista: [Odilo Junior](https://www.linkedin.com/in/odilo-junior/)  
-- Mentor: [João Seabra](https://www.linkedin.com/in/joao-m-seabra/)  
-- QA:  [Karoline Rodrigues](https://www.linkedin.com/in/karoline-ibrodrigues/)  
+- Mentor: Em aberto
+- QA: Em aberto 
 
   
 <hr/>
