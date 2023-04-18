@@ -42,7 +42,7 @@
 **Equipe**:  
 - Frontend: [Lucas Alves](https://www.linkedin.com/in/lucas-alves-476b281aa/) | [Antonio Candido](https://www.linkedin.com/in/antoniolmcandido/)  
 - Backend: [Simeone Johnson](https://www.linkedin.com/in/simeone-johnson/) | | [Pedro Teles](https://www.linkedin.com/in/pedrohteles/)  
-- UX/ UI: [Thais Acyole](https://www.linkedin.com/in/flavia-acyole)
+- UX/ UI: [Thais Acyole](https://www.linkedin.com/in/flavia-acyole) || [Leilane Andrade](https://www.linkedin.com/in/leilaneandrade/)
 - Product Manager: Em aberto  
 - Agilista: [Odilo Junior](https://www.linkedin.com/in/odilo-junior/)  
 - Mentor: Em aberto
