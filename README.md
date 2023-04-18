@@ -26,10 +26,11 @@
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Studyn'ON:](#studynon)
+- [Studyn'ON](#studynon)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
+- [Quest Finder](#quest-finder)
 
 <hr/>
 
@@ -61,8 +62,8 @@
 - Head de Produtos: [Vanêssa Santana](https://www.linkedin.com/in/vanessa-patricia/)
 - Tech Lead: [Alec Lima](https://www.linkedin.com/in/aleclima-/)
 - Frontend: [Alec Lima](https://www.linkedin.com/in/aleclima-/) | [Heloiza Mendes](https://www.linkedin.com/in/heloiza-mendes-785708214) | [Leonardo Martins](https://www.linkedin.com/in/leonardo-martins-developer/)
-- Backend: [Vinicius Anicácio](https://www.linkedin.com/in/anic4cio/) | [Laíse Carvalho](https://www.linkedin.com/in/laisecvr/) |  [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/)
-- UX/ UI: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/) | [Jadylay Sousa](https://www.linkedin.com/in/jadylay-santos/)
+- Backend: [Douglas Aguiar](https://www.linkedin.com/in/douglas-aguiar-alc/) | [Higor Feijó](https://www.linkedin.com/in/higorfeijo/)
+- UX/ UI: [Sthefany Beltrão](https://www.linkedin.com/in/sthefany-beltr%C3%A3o-5b4979162/)
 - QA: [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/)
 
  
@@ -99,8 +100,8 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 - UI: [Juliana Ribeiro](https://www.linkedin.com/in/julianarib/)
 - QA: [Daniela Cardoso](https://www.linkedin.com/in/daniela-cardoso-da-silva-b25587234/?trk=contact-info) | [Nicolas Targino](https://www.linkedin.com/in/nicolas-targino)  
 - Backend: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Júlio Masson](https://www.linkedin.com/in/juliomasson) | [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)
-- Frontend: [Carol Andrade](https://www.linkedin.com/in/carolandrade1/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
-- Mobile (Kotlin): [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
+- Frontend: [Larissa Oliveira](https://www.linkedin.com/in/larissa-oliveira-a04611238/) | [Leonardo Teixeira](https://www.linkedin.com/in/leotx/) | [Mateus Carvalho](https://www.linkedin.com/in/mateuscarvalhodev)
+- Mobile (Kotlin): [Gelson Souza](https://www.linkedin.com/in/gelsonsouza/) | [Gustavo Oliveira](https://www.linkedin.com/in/gusoliveira21) | [Leonardo Santos](https://www.linkedin.com/in/Leozinhozd)  
 - Mobile (Swift): [Daiane Gonçalves](https://www.linkedin.com/mwlite/in/daiane-gon%C3%A7alves-4a946b94) | [Marcylene Barreto](https://www.linkedin.com/in/marcylene-barreto)  
 
 
@@ -113,13 +114,14 @@ Registrando informações relevantes como datas de vacinas, datas em que foi apl
 **Descrição do projeto**: Site para uso de motoristas de aplicativo que possui funções como controle financeiro, despesas como manutenção, estatísticas etc.  
 
 **Equipe**:  
-- Mentores: [Daniel Moura](https://www.linkedin.com/in/danielmouradev) *(Mentor Front-end)* | [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
+- Mentores: [Paulo Pinheiro](https://www.linkedin.com/in/paru369/) *(Mentor Quality Assurance)* 
 - Agil: [Hédpo Silva De Paula](https://www.linkedin.com/in/hedpodepaula/) 
 - Product Manager: [Guilherme Ganhito](https://www.linkedin.com/in/guilhermeganhito/) 
 - UX: [Rafael Claudino](https://www.linkedin.com/in/faelux/) | [Douglas Pereira](https://linkedin.com/in/douglaspereira4) | [Wilian Nascimento da Silva](https://www.linkedin.com/in/wiliandev/) 
-- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/) 
-- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) 
-- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Camila .](https://www.linkedin.com/in/camila-rizzi/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/)
+- QA: [Julissy Tocachelo](https://www.linkedin.com/in/julissytocachelo/)  
+- Backend: [Attila M. de Abreu](https://www.linkedin.com/in/attilamec) | [Daniel Matuoka Kobayashi](https://www.linkedin.com/in/danielmatuoka) | [Rafael Moraes](https://www.linkedin.com/in/rafaelmoraes03/) | [Daniel Moura](https://www.linkedin.com/in/danielmouradev)
+- Frontend: [Bruno Dias](https://www.linkedin.com/in/bdiasanalistadetecnologia/) | [Ana Leticia D.](https://www.linkedin.com/in/analeeos/) | [Marcos Carvalho](https://www.linkedin.com/in/marcoscarvalho45/)   
+
 
 <hr/>
 
@@ -219,12 +221,12 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 **Equipe**:    
 - Agilista: [Vanderlei Cruz](https://www.linkedin.com/in/vanderlei--cruz/)  | [Ana Paula Maldonado](https://www.linkedin.com/in/anap-maldonado/) 
-- Product Manager: [Isadora Mello](https://www.linkedin.com/in/isadoramello/)
+- Product Manager: [António Miguel](https://www.linkedin.com/in/ant%C3%B3nio-miguel-1b400b143/) | [Priscila Cunha Siqueira](https://www.linkedin.com/in/priscilacunhas/)
 - Frontend: [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Bruno Mateus](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Gustavo Fukuda](https://www.linkedin.com/in/gustavo-fukuda-791423a8/) | [Inocêncio Cordeiro](https://www.linkedin.com/in/inocencio-cordeiro/)    
-- Mobile: 
+- Mobile: [Pablo](https://www.linkedin.com/in/pabloleite03/)
 - QA : [Junior Pereira](https://www.linkedin.com/in/junior-pereira/) | [Ana Simão](https://www.linkedin.com/in/anasimao93/)
-- UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) 
+- UX: [Kleiton Gomes](https://www.linkedin.com/in/kleists/) | [Matheus Rios](https://www.linkedin.com/in/matheus-rios-farias/)
 <hr/>
 
 ## LoryBlu
@@ -341,7 +343,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) 
 - PM: [Fernanda Oliveira](https://www.linkedin.com/in/eufeoliveira) | [Igor Mello](https://www.linkedin.com/in/igor-revelles-mello/)
 - Ágil: [Gesane Carolina](https://www.linkedin.com/in/gesane-caroline) | [Sandra Loiola](https://www.linkedin.com/in/sandrasloiola/)
-- UX: [Daniel Brito](https://www.linkedin.com/in/dmoraesbrito) | [Victor vasconcelos](https://www.linkedin.com/in/victor-vasconcelos-3970191b5/) | [Yanka Yohana] (https://www.linkedin.com/in/yankayohana)
+- UX: [Daniel Brito](https://www.linkedin.com/in/dmoraesbrito) | [Victor vasconcelos](https://www.linkedin.com/in/victor-vasconcelos-3970191b5/) | [Yanka Yohana](https://www.linkedin.com/in/yankayohana)
 - Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer)
 - Frontend: [Thiago Dorville](https://www.linkedin.com/in/thiago-dorville) | [Alysson Chiarelly](https://www.linkedin.com/in/alysson-chiarelly/) | [Gabriel Oliveira](https://www.linkedin.com/in/gabrielviol/)
 - QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
@@ -354,11 +356,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 
 **Equipe**:  
 - Stakeholder: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
-- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau)
+- Product Manager: [Lucas Nicolau](https://www.linkedin.com/in/lucasalvesnicolau) | [Lana Carvalho](https://www.linkedin.com/in/lana-carvalho-874528ab/)
 - UX: [Raquel Ribeiro](https://www.linkedin.com/in/raquelalribeiro)
-- Ágil: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
+- Ágil: [Cibelle Cordovil](https://www.linkedin.com/in/cibelle-cordovil/) | [Nickolas Moura](https://www.linkedin.com/in/nickmoura/)
 - Backend: [Gustavo Parlandim](https://www.linkedin.com/in/gustavoparlandim/) | [Igor Oliveira](https://www.linkedin.com/in/igorbomfim27)
-- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3)
+- Frontend: [Matheus Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3) | [Max Machado](https://www.linkedin.com/in/maxmilliano/)
 - Mobile: [João Hitallo ](https://www.linkedin.com/in/joaohitallo)
     
 <hr/>
@@ -384,11 +386,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:  
 - Frontend: [Rildo Bispo](https://www.linkedin.com/in/rilton-bispo-460069198/) | Aberlado | [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
 - Backend: Thiago | [Maycon](https://www.linkedin.com/in/maycon-coutinho/)
-- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Mariana Souza](https://www.linkedin.com/in/marianasouza-dc-developeruxui)
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess)
 - Mentor: [Ricardo Lima](https://www.linkedin.com/in/ricardo-pereira-lima)
-- Agilista: [Mauro](https://www.linkedin.com/in/mauro-reis/) | [Marina  Alcantara](https://www.linkedin.com/in/marianaalcantara0/)
+- Agilista: 
 - QA: [Julia Ferreira](https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9)
-- Product Manager: [Rafael Ferreira](https://www.linkedin.com/in/rafael-tadeu-espinha-ferreira-3274a9b6/)
+- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/) | [Susi Lima](www.linkedin.com/in/susidlima)
 
 <hr/>
 
@@ -406,4 +408,20 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - QA: [Beatriz franco](https://www.linkedin.com/in/beatriz-franco-testes/) | [Ronaldo Marinho](https://www.linkedin.com/in/ronaldo-marinho-amaro-de-souza-a70033bb/)
 - Agilista: [Vitória montesuma](https://www.linkedin.com/in/vitoriamontesuma/) | [Julio cezar](https://www.linkedin.com/in/julio-cezar-60733b185/)
 
+<hr/>
+
+## Quest Finder
+**Repositório**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
+**Responsável**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
+**Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
+
+**Equipe**:
+- Stakeholder: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)
+- Product Manager: [Bruno Henrique](http://linkedin.com/in/bruno-mello-4a8b60196) | [Lana Carvalho](https://www.linkedin.com/in/lana-carvalho-874528ab)
+- Agilista: [Elton Shinaider](https://www.linkedin.com/in/elton-shinaider-103865232) | [Danuta Cananea](https://www.linkedin.com/in/danutacananéa/) | [Regiane França](https://www.linkedin.com/in/regiane-fran%C3%A7a-5b0a55246/)
+- UX: [Felipe Cavalcanti](https://www.linkedin.com/in/felipe-cavalcanti-852b46140/) | [João Accioly](https://www.linkedin.com/in/joaotioly/)
+- FrontEnd: [Christian Leonardo](https://www.linkedin.com/in/christianlsb/) | [Luis Costa](https://www.linkedin.com/in/mcostalp/) | [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) 
+- BackEnd: [Pedro Favoretti](https://www.linkedin.com/in/pedro-favoretti/) | [Ítalo Araújo](https://www.linkedin.com/in/italoaraujodev/) | [Yusuf Hafi](https://www.linkedin.com/in/yusufmilla/)
+- Mobile: [Iann Rodrigues](https://www.linkedin.com/in/iann-rodrigues-b71b9220a/)
+- QA: [Thaynara Dutra](https://www.linkedin.com/in/thaynara-dutra-553309233/) | [Matheus Sodre](https://www.linkedin.com/in/matheusssodre/)
 <hr/>
