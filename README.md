@@ -269,14 +269,14 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 <hr/>
 
 ## JobJR  
-**Repositório**: [JobJr](https://github.com/job-jr-sjl/job-jr)  
-**Responsável**: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
+**Repositório**: 
+**Responsável**: [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
 **Descrição do projeto**: O projeto se propõe a criar um bot de discord no servidor da SouJúnior que busque vagas de júnior na área de tecnologia, em diversas plataformas de vagas.  
 
 **Equipe**:
-- Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
+- Stakeholder: 
 - Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/)  
-- Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/) | [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184/) | [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
+- Backend: [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
 - UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/)  
 - Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
