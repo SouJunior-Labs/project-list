@@ -17,7 +17,6 @@
 - [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
-- [Terapia em Foco](#terapia-em-foco)
 - [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
@@ -25,7 +24,7 @@
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Studyn'ON](#studynon)
+- [Studyn'ON:](#studynon)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
@@ -200,20 +199,6 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## Terapia em Foco
-**Repositório**: [Terapia em Foco](https://github.com/terapiaemfoco)  
-**Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
-**Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
-
-**Equipe**: 
-- Product Manager: [Haline Dias](https://www.linkedin.com/in/haline-dias) | [Beatriz Sola](https://www.linkedin.com/in/beatrizsola)
-- Agilista: [Leila M](https://www.linkedin.com)
-- UX/UI: [Alana Araujo](https://www.linkedin.com/in/alanarss) | [Matheus Rios](https://www.linkedin.com/in/matheus-rios-farias/)
-- QA: [Bruno Henrique](https://www.linkedin.com/in/brunohsqa/)
-- Backend: [Guilherme Oliveira](https://www.linkedin.com/in/guilhermeoliveirawebdeveloper/) | [Gustavo Ferreira](https://www.linkedin.com/in/gustavoferreiraa/)
-
-<hr/>
-
 ## Anota Aí
 **Repositório**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
 **Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
@@ -310,10 +295,10 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/) | [Camila Ochoa Piriz](https://www.linkedin.com/in/camilaochoap/)
  - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/) | [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164)
  - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
+ - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
  - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
- - Data: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
+ - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/) | [Juliano Inácio](https://www.linkedin.com/in/juliano-d-6b0815234/)
+ - Data Science | Data Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/) 
 
 <hr/>
 
@@ -344,7 +329,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - PM: [Fernanda Oliveira](https://www.linkedin.com/in/eufeoliveira) | [Igor Mello](https://www.linkedin.com/in/igor-revelles-mello/)
 - Ágil: [Gesane Carolina](https://www.linkedin.com/in/gesane-caroline) | [Sandra Loiola](https://www.linkedin.com/in/sandrasloiola/)
 - UX: [Daniel Brito](https://www.linkedin.com/in/dmoraesbrito) | [Victor vasconcelos](https://www.linkedin.com/in/victor-vasconcelos-3970191b5/) | [Yanka Yohana](https://www.linkedin.com/in/yankayohana)
-- Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer)
+- Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)
 - Frontend: [Thiago Dorville](https://www.linkedin.com/in/thiago-dorville) | [Alysson Chiarelly](https://www.linkedin.com/in/alysson-chiarelly/) | [Gabriel Oliveira](https://www.linkedin.com/in/gabrielviol/)
 - QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
 <hr/>
