@@ -256,14 +256,14 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 **Equipe**:  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Agilista: [Vanessa Correia](https://www.linkedin.com/in/vanessa-correia-570198147)  
-- Product Manager: [Alessandro Oliveira](https://www.linkedin.com/in/alessandroos1/)  
+- Product Manager: [Alessandro Oliveira](https://www.linkedin.com/in/alessandroos1/) | [Ronald Petrotheli](https://www.linkedin.com/in/ronaldpetrothelicapm/) 
 - Tech Lead: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/)  
 - Frontend: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Erikles Costa](https://www.linkedin.com/in/geyzoncosta/)  
 - Backend: [Mário Cesar](https://www.linkedin.com/in/dev-mario-cesar/) | [Natanael Silva](https://www.linkedin.com/in/natanaelsc/)  
 - Mobile: [Leo Martins](https://www.linkedin.com/in/leonardo-martins-developer/) | [Eliabe Silva](https://www.linkedin.com/in/eliabecruzsilva/) | [Vitor Rafael ](https://www.linkedin.com/in/vitor-rafaelk1/)  
 - QA: [Thamiris Arruda](http://www.linkedin.com/in/thamirisarruda)  
 - Mentor UX: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/)  
-- UX: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Cezar Miranda](https://www.linkedin.com/in/cezarrmiranda) | [Beatriz Severo](https://www.linkedin.com/in/beatriz-severo/) | [Ronald Petrotheli](https://www.linkedin.com/in/ronaldpetrothelicapm/)
+- UX: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Cezar Miranda](https://www.linkedin.com/in/cezarrmiranda) | [Beatriz Severo](https://www.linkedin.com/in/beatriz-severo/) | [Arnouth Pessoa](https://www.linkedin.com/in/arnouthpessoa/)
 
 <hr/>
 
