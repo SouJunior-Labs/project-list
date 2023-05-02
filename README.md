@@ -173,11 +173,11 @@ A visão cliente, terá uma lista dos lugares que comprou e ganhou a pontuaç�
 
 **Equipe**: 
 - QA: [Lucas Tiago](https://www.linkedin.com/in/lucas-tiago/) 
-- Agilista: [Sidnei Almeida](https://www.linkedin.com/in/product-owner-sidnei-almeida/) 
+- Agilista: [Sidnei Almeida](https://www.linkedin.com/in/product-owner-sidnei-almeida/) | [Athus Carneiro](https://www.linkedin.com/in/athus-carneiro/)
 - Product Manager: [Akira Shimazu](https://www.linkedin.com/in/akira-shimazu-2577b2192/)
 - Frontend: [Darlan Bomfim](https://www.linkedin.com/in/darlan-bomfim-903582260/) | [Maurício Bruno](https://www.linkedin.com/in/mauricio-bruno-da-silva/) 
 - Mobile: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf) | [João Santos](https://www.linkedin.com/in/joao-santos-32003b1b1/) 
-- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) | [Férrer](https://www.linkedin.com/in/)
+- Backend: [Mateus](https://www.linkedin.com/in/matteus-santos-backend/) | [Férrer](https://www.linkedin.com/in/) | [Alex Yudi](https://www.linkedin.com/in/alex-yudi/)
 - UX/UI: [Ingrid Emanuelle](https://www.linkedin.com/in/ingridemanuelle/) | [João Accioly](https://https://www.linkedin.com/in/joaotioly/)
 
 <hr/>
