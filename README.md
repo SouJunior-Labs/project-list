@@ -17,16 +17,14 @@
 - [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
-- [Terapia em Foco](#terapia-em-foco)
 - [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
-- [JobJR](#jobjr)
 - [Routinely](#routinely)
 - [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Studyn'ON](#studynon)
+- [Studyn'ON:](#studynon)
 - [Spotistas](#spotistas)
 - [TechRate](#techrate)
 - [Onde é o rolé](#onde-é-o-rolé)
@@ -201,20 +199,6 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 
 <hr/>
 
-## Terapia em Foco
-**Repositório**: [Terapia em Foco](https://github.com/terapiaemfoco)  
-**Responsável**: [Haline Dias](https://www.linkedin.com/in/haline-dias)  
-**Descrição do projeto**:A proposta é permitir unir pessoas que procuram terapia online a psicólogos que precisam preencher seus horários de atendimento. Além de permitir esse contato, o app deve ter uma permissão para o usuário acompanhar seus medicamentos (em caso de uso) e registrar seus pensamentos do dia (diário das emoções). Já o psicólogo deve ter acesso a um cadastro de pacientes e seus relatórios de atendimentos (privado).  
-
-**Equipe**: 
-- Product Manager: [Haline Dias](https://www.linkedin.com/in/haline-dias) | [Beatriz Sola](https://www.linkedin.com/in/beatrizsola)
-- Agilista: [Leila M](https://www.linkedin.com)
-- UX/UI: [Alana Araujo](https://www.linkedin.com/in/alanarss) | [Matheus Rios](https://www.linkedin.com/in/matheus-rios-farias/)
-- QA: [Bruno Henrique](https://www.linkedin.com/in/brunohsqa/)
-- Backend: [Guilherme Oliveira](https://www.linkedin.com/in/guilhermeoliveirawebdeveloper/) | [Gustavo Ferreira](https://www.linkedin.com/in/gustavoferreiraa/)
-
-<hr/>
-
 ## Anota Aí
 **Repositório**: [Organização Anota Aí](https://github.com/Anota-Ai-2)  
 **Responsável**: [Inocêncio Cordeiro](www.linkedin.com/in/inocencio-cordeiro)  
@@ -238,11 +222,11 @@ A utilidade de uma aplicação assim pode ser meio abstrata mas pode ser usada p
 **Equipe**:  
 - Stakeholder: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota)  
 - Head de Produtos: [Vânessa Santana](https://www.linkedin.com/in/vanessa-patricia/)  
-- Agilista: [Carla Krause](https://www.linkedin.com/in/carlakrause07/)  
+- Agilista: [Sabrina Silva Brochetto](https://www.linkedin.com/in/sabrina-brochetto-5942b44a/)
 - Product Manager: [Amaryllis Mota](https://www.linkedin.com/in/amaryllismota/) | [Fê Oliveira](https://www.linkedin.com/in/eufeoliveira/)  
 - Frontend: [Renato Lacerda](https://www.linkedin.com/in/renato-ac-lacerda) | [Nicholas Pinheiro](https://www.linkedin.com/in/nicholas-pinheiro-32b3a4247/)  
 - Backend: [Jefferson Ricardo](https://www.linkedin.com/in/jricardo10/) | [Rodrigo Alencar](https://www.linkedin.com/in/rodrigo-s-alencar/)    
-- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/) | [Paulo Vitor](https://www.linkedin.com/in/paulo-vitor-de-oliveira-fonseca-659aa31bb/)  
+- Mobile: [Suelen Cristina](https://www.linkedin.com/in/suelen-cristina-vaz-9527b8229/)  
 - QA : [Janaína Andrade](https://www.linkedin.com/in/janaina-andrade/) | [Laiza Schumaker](https://www.linkedin.com/in/laizaschumaker)  
 - UX: [Marcelo José](https://www.linkedin.com/in/marcelojos%C3%A9/) | [Thais Medeiros](https://www.linkedin.com/in/thais-silva-7ab630186/) | [Naiara Antunes](https://www.linkedin.com/in/naiara-antunes-82a341190/)
 
@@ -264,7 +248,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 - Mobile: [Leo Martins](https://www.linkedin.com/in/leonardo-martins-developer/) | [Eliabe Silva](https://www.linkedin.com/in/eliabecruzsilva/) | [Vitor Rafael ](https://www.linkedin.com/in/vitor-rafaelk1/)  
 - QA: [Thamiris Arruda](http://www.linkedin.com/in/thamirisarruda)  
 - Mentor UX: [Marcos Paranhos](https://www.linkedin.com/in/marcosparanhos/)  
-- UX: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Cezar Miranda](https://www.linkedin.com/in/cezarrmiranda)
+- UX: [Matheus C.](https://www.linkedin.com/in/matheus-c-4b2aa6213/) | [Cezar Miranda](https://www.linkedin.com/in/cezarrmiranda) | [Beatriz Severo](https://www.linkedin.com/in/beatriz-severo/) | [Ronald Petrotheli](https://www.linkedin.com/in/ronaldpetrothelicapm/)
 
 <hr/>
 
@@ -277,7 +261,7 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 - Stakeholder: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 - Agilista: [Igor Calmon](https://www.linkedin.com/in/igor-calmon/)  
 - Backend: [Max dos Santos Aguiar](https://www.linkedin.com/in/devaguiar/) | [Demian](https://www.linkedin.com/in/patrick-xavier-esteves-151649184/) | [Luciano da Silva Martins](https://www.linkedin.com/in/lucianodasilvamartins)
-- UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/)  
+- UX: [Felipe Cavalcanti](linkedin.com/in/felipe-cavalcanti-852b46140/) | [Beatriz Severo](https://www.linkedin.com/in/beatriz-severo/)
 - Product Manager: [Júlia Cardozo Cavalcante](https://www.linkedin.com/in/j%C3%BAlia-cardozo-cavalcante/)  
 
 <hr/>
@@ -311,10 +295,10 @@ As instituições sociais carecem de um sistema de gestão que o acompanhe desde
  - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/) | [Camila Ochoa Piriz](https://www.linkedin.com/in/camilaochoap/)
  - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/) | [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164)
  - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Daniel Nogueira](https://www.linkedin.com/in/daniel-nogueira-496813222/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
+ - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
  - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/)
- - Data: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) 
+ - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/) | [Juliano Inácio](https://www.linkedin.com/in/juliano-d-6b0815234/)
+ - Data Science | Data Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/) 
 
 <hr/>
 
@@ -345,7 +329,7 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 - PM: [Fernanda Oliveira](https://www.linkedin.com/in/eufeoliveira) | [Igor Mello](https://www.linkedin.com/in/igor-revelles-mello/)
 - Ágil: [Gesane Carolina](https://www.linkedin.com/in/gesane-caroline) | [Sandra Loiola](https://www.linkedin.com/in/sandrasloiola/)
 - UX: [Daniel Brito](https://www.linkedin.com/in/dmoraesbrito) | [Victor vasconcelos](https://www.linkedin.com/in/victor-vasconcelos-3970191b5/) | [Yanka Yohana](https://www.linkedin.com/in/yankayohana)
-- Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir) | [Jeverson Mozer](https://www.linkedin.com/in/jeversonmozer)
+- Backend: [Luis carlos](https://www.linkedin.com/in/luiscroxis) | [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)
 - Frontend: [Thiago Dorville](https://www.linkedin.com/in/thiago-dorville) | [Alysson Chiarelly](https://www.linkedin.com/in/alysson-chiarelly/) | [Gabriel Oliveira](https://www.linkedin.com/in/gabrielviol/)
 - QA: [Rafael Cavalcante](https://www.linkedin.com/in/rafael-qa) | [Lucas Rocon](https://www.linkedin.com/in/lucas-rocon/)
 <hr/>
@@ -387,11 +371,11 @@ O aplicativo Care4You tem como objetivo facilitar a conexão entre usuários e p
 **Equipe**:  
 - Frontend: [Rildo Bispo](https://www.linkedin.com/in/rilton-bispo-460069198/) | Aberlado | [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)
 - Backend: Thiago | [Maycon](https://www.linkedin.com/in/maycon-coutinho/)
-- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess)
+- UX/ UI: [Alynne Martins](https://www.linkedin.com/in/kerryalynnecmartins/) | [Jéssica Magalhães](https://www.linkedin.com/in/jessica-magalhãess) | [Francisco Cruz](https://www.linkedin.com/in/cisco-cruz-227a02217/)
 - Mentor: [Ricardo Lima](https://www.linkedin.com/in/ricardo-pereira-lima)
-- Agilista: 
+- Agilista: [Simone Andrade](https://www.linkedin.com/in/simoneandrade75/)
 - QA: [Julia Ferreira](https://www.linkedin.com/in/j%C3%BAlia-ferreira-38a881b9)
-- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/) | [Susi Lima](www.linkedin.com/in/susidlima)
+- Product Manager: [Manuela Vinhas](https://www.linkedin.com/in/manuela-vinhas-87b6959b/)
 
 <hr/>
 
