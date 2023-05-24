@@ -30,6 +30,7 @@
 - [Quest Finder](#quest-finder)
 - [CollectEasy](#collecteasy)
 - [Descubra Ilhabela](#descubra-ilhabela)
+- [Sistema de Gerenciamento de Projetos](#gerenciamento)
 
 <hr/>
 
@@ -186,5 +187,15 @@
 **Organização**: [DescubraIlhabela](https://github.com/orgs/Descubra-Ilhabela)      
 **Founder**: [Paulo Sergio](https://www.linkedin.com/in/paulo-sergio-morais/)       
 **Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela. 
+
+<hr/>
+
+<hr/>
+
+## Sistema de Gerenciamento de Projetos
+
+**Organização**: [Sistema de Gerenciamento de Projetos](https://github.com/Sistema-de-Gerenciamento-de-Projetos)      
+**Founder**: [Aylla Scaglia](https://www.linkedin.com/in/aylla-scaglia/)       
+**Descrição do projeto**: O nosso projeto tem como finalidade o gerenciamento de tarefas e projetos. 
 
 <hr/>
