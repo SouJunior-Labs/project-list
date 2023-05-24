@@ -22,7 +22,7 @@
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
-- [TerceiroGestor](#terceirogestor)
+- [Terceiro Gestor](#terceiro-gestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
 - [Studyn'ON:](#studynon)
@@ -283,23 +283,23 @@ O Connectattoo será um hub para localizar um tatuador através de filtros como 
 
 <hr/>
 
-## TerceiroGestor
-**Repositório**: [TerceiroGestor](https://github.com/TerceiroGestor)  
+## Terceiro Gestor
+**Repositório**: [Terceiro Gestor](https://github.com/TerceiroGestor)  
 **Responsável**: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
 **Descrição do projeto**:
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência.  
 As instituições sociais carecem de um sistema de gestão que o acompanhe desde sua abertura até sua ascensão. Como um diferencial no mercado, além de fornecer recursos gratuitos para instituições sociais que o auxiliam do início ao fim, teremos um sistema com uma centralização de dados sociais públicos, dados que são transparentes que podem ser utilizados para análises de dados sociais e territoriais, auxiliando todo o terceiro setor nas suas tomadas de decisões, suas projeções e futuras ações sociais. 
 
 **Equipe** 
- - Mentor: [Fellipy Ferreira](https://www.linkedin.com/in/fellipyferreira)
- - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - Product Manager: [Igor Revelles de Mello](https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/) | [Camila Ochoa Piriz](https://www.linkedin.com/in/camilaochoap/)
- - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/) | [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164)
- - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
- - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
- - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
- - DevOps: [Lucas Nascimento](https://www.linkedin.com/in/lucas-nascimento-32722b160/) | [Juliano Inácio](https://www.linkedin.com/in/juliano-d-6b0815234/)
- - Data Science | Data Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/) 
+
+  - Responsável: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+  - Product Manager: [Rossandra Trajano](https://www.linkedin.com/in/rossandratrajano/)
+  - Agilista: [Beatriz Ribeiro](https://www.linkedin.com/in/beatriz-ribeiroo/) | [Marcela Cardoso](https://www.linkedin.com/in/marcela-gusm%C3%A3o-cardoso-5a8590164)
+  - UX: [Jéssika Mendes](https://www.linkedin.com/in/jessikatayza/) | [DiogoCassel](https://www.linkedin.com/in/diogocassel/)
+  - FrontEnd: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/) | [Bruno Brito](https://www.linkedin.com/in/brunos-brito/)
+  - Backend: [Evel Ortega](https://www.linkedin.com/in/evel-ortega-74a390224/) | [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)
+  - Data Science | Engineer: [Thalis Ruan](https://www.linkedin.com/in/thalis-ruan-b8a199130/) | [Arturo Conte](https://www.linkedin.com/in/arturoconte/)
+  - DevOps: [Juliano Inácio](https://www.linkedin.com/in/juliano-d-6b0815234/)
 
 <hr/>
 
