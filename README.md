@@ -34,6 +34,7 @@
 - [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
+- [Atomics](#atomics)
 
 <hr/>
 
@@ -222,5 +223,12 @@
 **Organização**: [MenuExpresso](https://github.com/MenuExpress-souJunior)  
 **Founder**: [Yan Castro](https://www.linkedin.com/in/cplx/)  
 **Descrição do projeto**: Somos um cardápio digital inovador que tem como objetivo transformar a maneira como as pessoas interagem e fazem pedidos em restaurantes. Combinando tecnologia avançada e uma interface intuitiva, proporcionamos uma experiência conveniente e personalizada para os clientes.
+
+<hr/>
+
+## Atomics
+**Organização**: [Atomics](https://github.com/OrgAtomics)  
+**Founder**: [Danrley Senegalha Pires](https://www.linkedin.com/in/dansenpir)  
+**Descrição do projeto**: Apenas um exemplo de criação de projeto.
 
 <hr/>
