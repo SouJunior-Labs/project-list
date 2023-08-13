@@ -32,6 +32,7 @@
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
+- [Diário das emoções](#diário-das-emoções)
 
 <hr/>
 
@@ -206,3 +207,8 @@
 utilizado, proporcionando novas experiências ao usuário.
 
 <hr/>
+
+## Diário das emoções
+**Organização**: [diário-emocional](https://github.com/Diario-das-emocoes)
+**Founder**: [Victor Yghor](https://www.linkedin.com/in/victor-yghor/)
+**Descrição do projeto**: O diário das emoções é um lugar seguro e confortável para registrar como se sente, e ser uma ferramenta para registrar como os pacientes se sentem durante o tratamento com o piscologo e/ou pisquiatra
