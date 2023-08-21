@@ -13,24 +13,18 @@
 - [Site Projetos Ativos](#site-projetos-ativos)
 - [Pet Journal](#pet-journal)
 - [Controle de Corrida](#controle-de-corrida)
-- [Findy](#findy)
-- [Cartão Fidelidade Digital](#cartão-fidelidade-digital)
+- [Clubee](#clubee)
 - [Animania](#animania)
 - [Minnemi](#minnemi)
 - [Anota Aí](#anota-aí)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
-- [TerceiroGestor](#terceirogestor)
 - [Care4You](#care4you)
 - [Bora Rachar](#bora-rachar)
-- [Spotistas](#spotistas)
 - [TechRate](#techrate)
-- [Onde é o rolé](#onde-é-o-rolé)
-- [Quest Finder](#quest-finder)
-- [CollectEasy](#collecteasy)
+- [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [Descubra Ilhabela](#descubra-ilhabela)
-- [Mentor Cycle](#mentor-cycle)
 - [Warmy](#warmy)
 - [MenuExpresso](#menuexpresso)
 - [DeliveryAPP](#deliveryapp)
@@ -73,15 +67,8 @@
 
 <hr/>
 
-## Findy    
-**Organização**: [Findy](https://github.com/Findy-U)  
-**Founder**: [Guilherme Davedovicz de Oliveira](https://www.linkedin.com/in/guilhermedvicz/)  
-**Descrição do projeto**: A empresa visa transformar o aprendizado de profissionais de tecnologia com uma plataforma colaborativa e inovadora. Conecta aprendizes, líderes de projeto e voluntários, promovendo desenvolvimento prático e facilitando o recrutamento no mercado. Parcerias e integrações ampliam alcance e eficácia.
-
-<hr/>
-
-## Cartão Fidelidade Digital  
-**Organização**: [Cartão Fidelidade Digital](https://github.com/cartao-fidelidade-digital)  
+## Clubee 
+**Organização**: [Clubee](https://github.com/cartao-fidelidade-digital)  
 **Founder**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para os clientes.
 
@@ -129,13 +116,6 @@
 
 <hr/>
 
-## TerceiroGestor
-**Organização**: [TerceiroGestor](https://github.com/TerceiroGestor)  
-**Founder**: [Weverton Campos](https://www.linkedin.com/in/wevertoncamposdev/)  
-**Descrição do projeto**: Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência.  
-
-<hr/>
-
 ## Care4You
 **Organização**:  [Care4You](https://github.com/care4you)  
 **Founder**: [Samuel Carvalho](https://www.linkedin.com/in/samuel-silva-de-carvalho/)  
@@ -150,39 +130,17 @@
     
 <hr/>
 
-## Spotistas
-**Organização**: [Spotistas](https://github.com/spotistas)    
-**Founder**: [Diogo Reis](https://www.linkedin.com/in/diogo-reis-1408b6239/)  
-**Descrição do projeto**: Spotistas é um projeto que visa fornecer aos usuários do Spotify uma maneira fácil e acessível de entender suas estatísticas de reprodução e dados de música.
- 
-<hr/>
-
-
 ## TechRate
-**Organização**: [TehcRate](https://github.com/orgs/TechRate-Lab/repositories)  
+**Organização**: [TechRate](https://github.com/orgs/TechRate-Lab/repositories)  
 **Founder**: [Luiz Bello](https://www.linkedin.com/in/luiz-paulo-a98a61238/)  
 **Descrição do projeto**: Plataforma para avaliação de empresas na área tech. Visando passar informações sobre stacks utilizadas, principais áreas de atuação, cultura da empresa, plano de carreira e informações relevantes para possíveis candidatos, com avaliações de funcionários.    
 
 <hr/>
 
-## Onde é o rolé
-**Organização**: [OndeEORole](https://github.com/onde-e-o-role)  
-**Founder**: [Gabriel Rodrigues](https://www.linkedin.com/in/gabriel-souza-776723177/)  
-**Descrição do projeto**: O aplicativo Onde é o rolê tem como objetivo auxiliar o usuário a decidir em qual local, seja bar, restaurante, shows e eventos ele poderá ir.
-
-<hr/>
-
-## Quest Finder
-**Organização**: [QuestFinder](https://github.com/orgs/Quest-Finder/repositories)      
+## Tem Vaga Mestre?
+**Organização**: [Tem Vaga Mestre](https://github.com/orgs/Quest-Finder/repositories)      
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/)       
-**Descrição do projeto**: A plataforma Quest Finder conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
-
-<hr/>
-
-## CollectEasy
-**Repositório**: [CollectEasy](https://github.com/CollectEasy)      
-**Responsável**: [Victor Silva](https://www.linkedin.com/in/victorhrdsilva/)       
-**Descrição do projeto**: O "CollectEasy" é uma aplicação que facilita a organização de coleções.
+**Descrição do projeto**: A plataforma Tem Vaga Mestre? conecta jogadores e mestres de RPG, oferecendo suporte a organização de mesas online e presenciais, fichas de personagens e uma agenda. 
 
 <hr/>
 
@@ -193,14 +151,6 @@
 **Descrição do projeto**: O nosso projeto web tem como objetivo ser um guia turístico completo da cidade de Ilhabela.
 
 <hr/> 
-
-## Mentor Cycle
-
-**Organização**: [MentorCycle](https://github.com/Mentor-Cycle)      
-**Founder**: [Leonardo Balsalobre](https://www.linkedin.com/in/leonardo-balsalobre/)       
-**Descrição do projeto**: O Mentor Cycle é um projeto open-source cujo objetivo é conectar pessoas na área de T.I que estão aprendendo, com profissionais com experiência de mercado. 
-
-<hr/>
 
 ## Warmy
 **Organização**: [Warmy](https://github.com/warmy-project)  
