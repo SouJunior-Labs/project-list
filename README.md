@@ -28,6 +28,7 @@
 - [DeliveryAPP](#deliveryapp)
 - [MoradaApp](#moradaapp)
 - [Trilha Desenvolviemento XP](#trilha-desenvolvimento-xp)
+- [Amigos dos Animais](#amigos-dos-animais)
 
 <hr/>
 
@@ -171,3 +172,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Trilha Desenvolvimento XP](https://github.com/TrilhaDesenvolvimento-XP)  
 **Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
 **Descrição do projeto**: Uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
+
+<hr/>
+
+## Amigos dos Animais
+**Organização**: [Trilha Desenvolvimento XP](https://github.com/)  
+**Founder**: [Frederico Espeschit](https://www.linkedin.com/in/fredericoespeschit/)  
+**Descrição do projeto**: Desenvolver um sistema web que servirá como prontuário dedicado aos animais de rua atendidos pela organização "Amigos dos Animais" em São Domingos do Prata. O objetivo é otimizar o monitoramento, gestão e assistência prestados a esses animais. 
