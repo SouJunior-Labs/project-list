@@ -182,8 +182,8 @@ utilizado, proporcionando novas experiências ao usuário.
 **Descrição do projeto**: O QuickServices é uma aplicação mobile para conectar prestadores de serviços a clientes/pessoas que tem tarefas a ser feitas. O que o diferencia de outros sites/aplicativos é que são serviços simples que geralmente não são encontrados em grandes plataformas.
 
 ## hello-pets
-**Organização**: [hello-pets](https://github.com/monteroaurea/hello-pets.git) <br>
-**Founder**: [Aurea](https://www.linkedin.com/in/monteroaurea/) <br>
+**Organização**: [hello-pets](https://github.com/oGrandeK/hello-pets.git) <br>
+**Founder**: [Kelvim](https://www.linkedin.com/in/kelvimkauam/) <br>
 **Descrição**: O aplicativo Hello Pets é uma plataforma para que tutores de pets possam se conectar, compartilhar informações e participar de eventos e encontros para promover a interação de seus animais de estimação na comunidade.
 
 ## GameGuard
