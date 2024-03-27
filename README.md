@@ -29,6 +29,8 @@
 - [QuickServices](#quickservices)
 - [Hello-Pets](#hello-pets)
 - [Diaristando](#diaristando)
+- [ConectarBem](#conectarbem)
+- 
 
 <hr/>
 
@@ -178,3 +180,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Diaristando](https://github.com/diaristando) <br>
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) <br>
 **Descrição**: Nosso projeto visa simplificar e otimizar o processo de contratação de serviços de diaristas, proporcionando uma plataforma mobile inovadora que conecta de forma eficiente clientes finais a prestadoras de serviços de limpeza. 
+
+<hr/>
+
+## ConectarBem
+**Organização:** [ConectaBem](https://github.com/amndfreitas/conectabem) <br>
+**Founder:** [Amanda Freitas](https://www.linkedin.com/in/amndfreitas/) <br>
+**Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
