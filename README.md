@@ -29,6 +29,7 @@
 - [QuickServices](#quickservices)
 - [Hello-Pets](#hello-pets)
 - [Diaristando](#diaristando)
+- [SoliciteMe!](#solicite-me)
 
 <hr/>
 
@@ -178,3 +179,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Diaristando](https://github.com/diaristando) <br>
 **Founder**: [Nathalia Buchholz](https://www.linkedin.com/in/nathaliabuchholz/) <br>
 **Descrição**: Nosso projeto visa simplificar e otimizar o processo de contratação de serviços de diaristas, proporcionando uma plataforma mobile inovadora que conecta de forma eficiente clientes finais a prestadoras de serviços de limpeza. 
+
+<hr/> 
+
+## Solicite Me!
+**Organização**: [Solicite-Me](https://github.com/SoliciTe-Service) <br>
+**Founder**: [Gabrielly Ribas](https://www.linkedin.com/in/gabrielly-ribas-42393a178/) <br>
+**Descrição**: Uma plataforma digital, web e  Android e IOS, focada em trazer visibilidade para os trabalhadores autônomos, onde os usuários podem visualizar serviços e realizar a contratação. 
