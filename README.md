@@ -34,11 +34,6 @@
 
 <hr/>
 
-## Diagier  
-**Organização**:  [Diagier](https://github.com/Gierdiaz/Diagier)  
-**Founder**: [Állison Luis](https://www.linkedin.com/in/%C3%A1llison-luis-64523b14b/)
-**Descrição do projeto**:Gerencie projetos, tarefas e equipes com facilidade! Nosso Sistema de Gerenciamento de Projetos, desenvolvido em Laravel, oferece uma solução eficiente para acompanhar o andamento do projeto, atribuir tarefas e cumprir prazos. Simplifique sua colaboração e aumente a produtividade com nosso sistema intuitivo e fácil de usar.
-
 ## Video4Me  
 **Organização**:  [Video4Me](https://github.com/Video4Me)  
 **Founder**: [Davi Kooji](https://www.linkedin.com/in/daviuezono/)  
@@ -192,3 +187,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**: [Solicite-Me](https://github.com/SoliciTe-Service) <br>
 **Founder**: [Gabrielly Ribas](https://www.linkedin.com/in/gabrielly-ribas-42393a178/) <br>
 **Descrição**: Uma plataforma digital, web e  Android e IOS, focada em trazer visibilidade para os trabalhadores autônomos, onde os usuários podem visualizar serviços e realizar a contratação. 
+
+<hr/>
+
+## Diagier  
+**Organização**:  [Diagier](https://github.com/Gierdiaz/Diagier)  
+**Founder**: [Állison Luis](https://www.linkedin.com/in/%C3%A1llison-luis-64523b14b/)
+**Descrição do projeto**:Gerencie projetos, tarefas e equipes com facilidade! Nosso Sistema de Gerenciamento de Projetos, desenvolvido em Laravel, oferece uma solução eficiente para acompanhar o andamento do projeto, atribuir tarefas e cumprir prazos. Simplifique sua colaboração e aumente a produtividade com nosso sistema intuitivo e fácil de usar.
