@@ -31,6 +31,7 @@
 - [Diaristando](#diaristando)
 - [SoliciteMe!](#solicite-me)
 - [Diagier](#Diagier)
+- [ConectaBem](#ConectaBem)
 
 <hr/>
 
@@ -194,3 +195,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização**:  [Diagier](https://github.com/Gierdiaz/Diagier)  
 **Founder**: [Állison Luis](https://www.linkedin.com/in/%C3%A1llison-luis-64523b14b/)
 **Descrição do projeto**:Gerencie projetos, tarefas e equipes com facilidade! Nosso Sistema de Gerenciamento de Projetos, desenvolvido em Laravel, oferece uma solução eficiente para acompanhar o andamento do projeto, atribuir tarefas e cumprir prazos. Simplifique sua colaboração e aumente a produtividade com nosso sistema intuitivo e fácil de usar.
+
+<hr/>
+
+## ConectaBem
+**Organização:** [ConectaBem](https://github.com/ConectarBem) <br>
+**Founder:** [Amanda Freitas](https://www.linkedin.com/in/amndfreitas/) <br>
+**Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
