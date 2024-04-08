@@ -32,6 +32,7 @@
 - [SoliciteMe!](#solicite-me)
 - [Diagier](#Diagier)
 - [ConectaBem](#ConectaBem)
+- [AllubBeneficios](#allubbeneficios)
 
 <hr/>
 
@@ -202,3 +203,12 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização:** [ConectaBem](https://github.com/ConectarBem) <br>
 **Founder:** [Amanda Freitas](https://www.linkedin.com/in/amndfreitas/) <br>
 **Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
+
+<hr/>
+
+## Allub Beneficios
+**Organização:** [Allub Beneficios](https://github.com/EduardoDevMartins/allub_beneficios) <br>
+**Founder:** [Eduardo Martins]([https://www.linkedin.com/in/amndfreitas/](https://www.linkedin.com/company/allubbeneficios) <br>
+**Descrição do projeto:** Nosso diferencial está em proporcionar oportunidades para profissionais recém-formados, muitas vezes enfrentando desafios para ingressar no mercado de trabalho devido à falta de experiência e clientela. Ao mesmo tempo, oferecemos consultas a preços acessíveis para aqueles que buscam assistência médica de qualidade, garantindo que a saúde e o bem-estar sejam acessíveis a todos.
+
+
