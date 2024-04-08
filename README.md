@@ -33,6 +33,7 @@
 - [Diagier](#Diagier)
 - [ConectaBem](#ConectaBem)
 - [CliNiv](#CliNiv)
+- [AllubBeneficios](#allubbeneficios)
 
 <hr/>
 
@@ -210,3 +211,10 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização:** [CliNiv](https://github.com/NivLabs/cliniv-api) <br>
 **Founder:** [Vinícios Rodrigues](https://www.linkedin.com/in/viniciosrodrigues/) <br>
 **Descrição do projeto:** Focado em clínicas de pequeno porte, o CliNiv é um sistema de gestão de prontuários eletrônicos de pacientes construído em Java (21) e Angular (17) criado como doação para clínicas do interior do estado de Pernambuco. Inicialmente funcionava em clínicas populares e mais recentemente foi adotado pela clínica de odontologia da PME do Rio de Janeiro. Nosso foco é proporcionar uma ferramenta simples e ao mesmo tempo robusta para clínicas e profissionais de saúde.
+
+<hr/>
+
+## AllubBeneficios
+**Organização:** [Allub Beneficios](https://github.com/EduardoDevMartins/allub_beneficios) <br>
+**Founder:** [Eduardo Martins](https://www.linkedin.com/company/allubbeneficios) <br>
+**Descrição do projeto:** Nosso diferencial está em proporcionar oportunidades para profissionais recém-formados, muitas vezes enfrentando desafios para ingressar no mercado de trabalho devido à falta de experiência e clientela. Ao mesmo tempo, oferecemos consultas a preços acessíveis para aqueles que buscam assistência médica de qualidade, garantindo que a saúde e o bem-estar sejam acessíveis a todos.
