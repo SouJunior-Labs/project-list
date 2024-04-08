@@ -202,12 +202,11 @@ utilizado, proporcionando novas experiências ao usuário.
 ## ConectaBem
 **Organização:** [ConectaBem](https://github.com/ConectarBem) <br>
 **Founder:** [Amanda Freitas](https://www.linkedin.com/in/amndfreitas/) <br>
-**Descrição do projeto:** Focado em clínicas de pequeno porte, o CliNiv é um sistema de gestão de prontuários eletrônicos de pacientes construído em Java (21) e Angular (17) criado como doação para clínicas do interior do estado de Pernambuco. Inicialmente funcionava em clínicas populares e mais recentemente foi adotado pela clínica de odontologia da PME do Rio de Janeiro. Nosso foco é proporcionar uma ferramenta simples e ao mesmo tempo robusta para clínicas e profissionais de saúde.
+**Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
 
 <hr/>
 
 ## CliNiv
-**Organização:** [CliNiv]([https://github.com/ConectarBem](https://github.com/NivLabs/cliniv-api) <br>
-**Founder:** [Vinícios Rodrigues](https://www.linkedin.com/in/amndfreitas/) <br>
-**Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
-
+**Organização:** [CliNiv](https://github.com/NivLabs/cliniv-api) <br>
+**Founder:** [Vinícios Rodrigues](https://www.linkedin.com/in/viniciosrodrigues/) <br>
+**Descrição do projeto:** Focado em clínicas de pequeno porte, o CliNiv é um sistema de gestão de prontuários eletrônicos de pacientes construído em Java (21) e Angular (17) criado como doação para clínicas do interior do estado de Pernambuco. Inicialmente funcionava em clínicas populares e mais recentemente foi adotado pela clínica de odontologia da PME do Rio de Janeiro. Nosso foco é proporcionar uma ferramenta simples e ao mesmo tempo robusta para clínicas e profissionais de saúde.
