@@ -223,6 +223,6 @@ utilizado, proporcionando novas experiências ao usuário.
 <hr/>
 
 ## ONG Mais
-**Organização:** [ONG Mais](https://github.com/camilasouzamoreira/ongmais) <br>
+**Organização:** [ONG-Mais](https://github.com/camilasouzamoreira/ongmais) <br>
 **Founder:** [Camila Moreira](https://www.linkedin.com/in/uxcamilamoreira/) <br>
 **Descrição do projeto:** O projeto visa criar um site institucional para a ONG Mais, sediada na comunidade do Morro da Polícia em Porto Alegre, com o propósito principal de ampliar a divulgação e promover o trabalho da organização. O site funcionará como um canal eficaz para atrair novos colaboradores, seja através de doações, trabalho voluntário ou estabelecimento de parcerias com empresas e outras organizações, fortalecendo assim o impacto positivo da ONG na comunidade.
