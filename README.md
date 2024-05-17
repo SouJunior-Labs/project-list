@@ -13,7 +13,6 @@
 - [Pet Journal](#pet-journal)
 - [Controle de Corrida](#controle-de-corrida)
 - [Clubee](#clubee)
-- [Animania](#animania)
 - [LoryBlu](#loryblu)
 - [Connectattoo](#connectattoo)
 - [Routinely](#routinely)
@@ -71,12 +70,6 @@
 **Founder**: [Thainara Wulfert](https://www.linkedin.com/in/thainara-wulfert-4350601a5/)  
 **Descrição do projeto**: O aplicativo (PWA) será um cartão de fidelidade digital, ou seja, várias lojas podem se cadastrar e dar pontos ou criar regras de pontuação para os clientes.
 
-<hr/>
-
-## Animania
-**Organização**: [Organização Animania Team](https://github.com/AnimaniaTeam)   
-**Founder**: [Vítor Emanuel](https://www.linkedin.com/in/vitoremanuelqf)  
-**Descrição do projeto**: Aplicativo para listagem e organização de animes, contendo como principal funcionalidade o calendário de lançamentos da temporada, listagem de acompanhamento do usuário com o progresso e controle de episódios e temporadas assistidas, listagem completa de temporadas anteriores separadas por gênero.
 
 <hr/>
 
