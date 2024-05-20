@@ -53,7 +53,7 @@
 
 ## Pet Journal
 **Organização**: [Pet Journal](https://github.com/PetJournal)  
-**Founder**: [Matheus de Gondra](https://www.linkedin.com/in/matheus-gondra-a187a81a3/)    
+**Founder**: [Gustavo](https://www.linkedin.com/in/gusoliveira21/)    
 **Descrição do projeto**: Produto para registro e acompanhamento de informações referentes aos nossos pets. 
 
 <hr/>
