@@ -35,6 +35,7 @@
 - [AllubBeneficios](#allubbeneficios)
 - [ONG Mais](#ong-mais)
 - [UniCloud](#unicloud)
+- [Leaf Pallete](#leaf-pallete)
 
 <hr/>
 
@@ -228,3 +229,11 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização:** [UniCloud](https://github.com/unicloud-io) <br>
 **Founder:** [Matteus Santos](https://github.com/matts021) <br>
 **Descrição do projeto:** A UniCloud tem como propósito oferecer uma experiência integrada e eficiente ao reunir todas as suas contas em nuvem em um único aplicativo. Agora, gerenciar seus arquivos e documentos se tornou mais fácil do que nunca.
+
+<hr/>
+
+## Leaf Pallete
+
+**Organização:** [Leaf Pallete](https://github.com/Leaf-Pallete) <br>
+**Founder:** [Salvio Tonon](https://www.linkedin.com/in/salvio-tonon/) <br>
+**Descrição do projeto:** A Leaf Pallete é uma aplicação web que inspira e orienta designers, oferecendo boas práticas no design de interfaces modernas, incluindo sugestões de cores, animações e tamanhos ideais para componentes de interface web.
