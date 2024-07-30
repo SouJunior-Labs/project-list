@@ -91,7 +91,7 @@
 
 ## Routinely
 **Organização**: [Routinely](https://github.com/RoutinelyOrganization)  
-**Founder**: [Claudia Dedeski](https://www.linkedin.com/in/claudia-dedeski/)  
+**Founder**: [Jordânia Silva do Nascimento](https://www.linkedin.com/in/jordaniasnascimento/)  
 **Descrição do projeto**: A aplicação Routinely é uma ferramenta projetada para ajudar as pessoas a manter uma rotina saudável e equilibrada. 
 
 <hr/>
