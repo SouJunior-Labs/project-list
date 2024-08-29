@@ -243,7 +243,7 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## Educt
 
-**Organização:** [Educt]([https://github.com/Leaf-Pallete](https://github.com/Projeto-Educt)) <br>
-**Founder:** [Thiago Pirolla](https://github.com/thiagopirolla) <br>
+**Organização:** [Educt](https://github.com/Projeto-Educt) <br>
+**Founder:** [Thiago Pirolla](https://www.linkedin.com/in/thiago-pirolla-439086162/) <br>
 **Descrição do projeto:** A Educt tem como projeto a construção de uma plataforma que permita estudantes do ensino médio receberem mentorias de graduandos ou profissionais em diversas áreas.
 
