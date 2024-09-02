@@ -36,6 +36,7 @@
 - [ONG Mais](#ong-mais)
 - [UniCloud](#unicloud)
 - [Leaf Pallete](#leaf-pallete)
+- [Educt](#Educt)
 
 <hr/>
 
@@ -237,3 +238,12 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização:** [Leaf Pallete](https://github.com/Leaf-Pallete) <br>
 **Founder:** [Salvio Tonon](https://www.linkedin.com/in/salvio-tonon/) <br>
 **Descrição do projeto:** A Leaf Pallete é uma aplicação web que inspira e orienta designers, oferecendo boas práticas no design de interfaces modernas, incluindo sugestões de cores, animações e tamanhos ideais para componentes de interface web.
+
+<hr/>
+
+## Educt
+
+**Organização:** [Educt](https://github.com/Projeto-Educt) <br>
+**Founder:** [Thiago Pirolla](https://www.linkedin.com/in/thiago-pirolla-439086162/) <br>
+**Descrição do projeto:** A Educt tem como projeto a construção de uma plataforma que permita estudantes do ensino médio receberem mentorias de graduandos ou profissionais em diversas áreas.
+
