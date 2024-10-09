@@ -93,7 +93,7 @@
 ## Connectattoo
 
 **Organização**: [Connectattoo](https://github.com/connectattoo)  
-**Founder**: [Vanessa Correia](https://www.linkedin.com/in/vanessalcorreia)  
+**Founder**: [Erick Marx](https://www.linkedin.com/in/erickmarx)  
 **Descrição do projeto**: Connectattoo será um hub para localizar um tatuador através de filtros como Cidade, gênero ou linha de trabalho (old school, pontilhismo, minimalismo, etc.).
 
 <hr/>
