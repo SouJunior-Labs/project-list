@@ -278,8 +278,8 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## ABNMO
 
-**Organização:** [ABNMO](https://github.com/ABNMO) <br>
-**Founder:** [Guilherme M. B. Duccini](https://www.linkedin.com/in/guilhermeduccini/) <br>
+**Organização:** [ABNMO](https://github.com/ipecode/ABNMO) <br>
+**Founder:** [Caio Nunes Santos](https://www.linkedin.com/in/caionscloud) <br>
 **Descrição do projeto:** Este projeto tem como objetivo desenvolver uma aplicação Web para Gestão dos assistidos da OSC ABNMO que acolhe pessoas com a doença Neuromielite Óptica.
 
 <hr/>
