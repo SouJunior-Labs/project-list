@@ -21,7 +21,6 @@
 - [Bora Rachar](#bora-rachar)
 - [Tem Vaga Mestre?](#tem-vaga-mestre)
 - [DeliveryAPP](#deliveryapp)
-- [MoradaApp](#moradaapp)
 - [GoLembrar](#golembrar)
 - [Amigos dos Animais](#amigos-dos-animais)
 - [Docunder](#docunder)
@@ -137,14 +136,6 @@
 **Founder**: [Igor Moura](https://www.linkedin.com/in/igor-moura-777b9917a/)  
 **Descrição do projeto**: O DeliveryAPP tem como objetivo ser um app de Delivery inovador e fácil de ser
 utilizado, proporcionando novas experiências ao usuário.
-
-<hr/>
-
-## MoradaApp
-
-**Organização**: [MoradaApp](https://github.com/MoradaApp)  
-**Founder**: [Jack](https://www.linkedin.com/in/jackvr/)  
-**Descrição do projeto**: Nossa plataforma será um sistema integrado que visa simplificar a gestão e a comunicação em condomínios residenciais. Através de um site responsivo e um aplicativo móvel intuitivo, oferecemos uma solução abrangente que atende às necessidades dos moradores, síndicos, administradores na vida condominial.
 
 <hr/>
 
