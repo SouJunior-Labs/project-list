@@ -213,8 +213,8 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## ConectaBem
 
-**Organização:** [ConectaBem](https://github.com/ConectarBem) <br>
-**Founder:** [Amanda Freitas](https://www.linkedin.com/in/amndfreitas/) <br>
+**Organização:** [ConectaBem](https://github.com/ConectaBemApp) <br>
+**Founder:** [Mariana Lima](https://www.linkedin.com/in/mariana-lima-5664a17b/) <br>
 **Descrição do projeto:** O projeto pretende solucionar um possível problema de contratação de serviços ligados à saúde e bem estar. Propomos uma solução para promover o encontro de profissionais com potenciais clientes. A ferramenta será de abrangência nacional, oferecendo uma solução para profissionais que não gostam de criar conteúdo em redes sociais para obter visibilidade, e para clientes que querem encontrar esses profissionais de forma eficaz e simplificada.
 
 <hr/>
