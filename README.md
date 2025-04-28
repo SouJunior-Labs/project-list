@@ -17,11 +17,11 @@ O Turismendes é mais que uma ferramenta: é um legado duradouro de inovação, 
 ## Sumário
 - [Turismendes](#turismendes)
   - [Detalhes do Projeto](#detalhes-do-projeto)
-  - [Sumário](#sumário)
-  - [Organização](#organização)
+  - [Organizacao](#organizacao)
   - [Membros](#membros)
+  - [Desenvolvimento](#desenvolvimento)
 
-## Organização
+## Organizacao
 [SomosDev Tech](https://github.com/SomosDevTech)
 
 ## Membros
@@ -48,7 +48,7 @@ Thaís Gomes
 **DevOps:**  
 [Mateus Pereira Sátiro Reyes](https://github.com/Raidro)
 
-**Desenvolvimento**
+## Desenvolvimento
 
 - **Backend:**  
   [Mario Frederico Castilho](https://github.com/mfcastilho)  
