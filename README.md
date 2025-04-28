@@ -1,5 +1,6 @@
 # Turismendes
-## Details web
+
+## Detalhes do Projeto
 
 O **Turismendes** é uma iniciativa transformadora que busca impulsionar a cidade de Mendes como referência em turismo moderno, integrando tecnologia, cultura e inovação. O projeto vai além da promoção turística: visa criar uma experiência única para moradores e visitantes, centralizando informações sobre pontos turísticos, eventos, trilhas, gastronomia, hospedagem e manifestações culturais e artísticas.
 
@@ -14,13 +15,19 @@ O projeto é estruturado em três plataformas interligadas:
 O Turismendes é mais que uma ferramenta: é um legado duradouro de inovação, valorização cultural e fortalecimento da identidade de Mendes no cenário turístico.
 
 ## Sumário
-- [Membros](#membros)
-- [Repositórios](#repositórios)
+- [Turismendes](#turismendes)
+  - [Detalhes do Projeto](#detalhes-do-projeto)
+  - [Sumário](#sumário)
+  - [Organização](#organização)
+  - [Membros](#membros)
+
+## Organização
+[SomosDev Tech](https://github.com/SomosDevTech)
 
 ## Membros
 
 **Founder:**  
-[Mario Frederico Castilho](https://github.com/mfcastilho)
+[Mario Frederico Castilho](https://www.linkedin.com/in/mariofrederico/)
 
 **Tech Lead:**  
 [Mario Frederico Castilho](https://github.com/mfcastilho)
@@ -45,12 +52,12 @@ Thaís Gomes
 
 - **Backend:**  
   [Mario Frederico Castilho](https://github.com/mfcastilho)  
-  [Epitácio Fontinelle](https://github.com/epitaciofontinelle) 
+  [Epitácio Fontinelle](https://github.com/epitaciofontinelle)  
   [Pedro Vieira](https://github.com/pedro-vieiraf)  
   [Abner da Silva Tavares](https://github.com/AbnerTavares14)
 
 - **Frontend:**  
-  [Matheus Stefan](https://github.com/MatheusStefan) 
+  [Matheus Stefan](https://github.com/MatheusStefan)  
   [Henrique Moura](https://github.com/hxmoura)  
   [Mario Frederico Castilho](https://github.com/mfcastilho)
 
