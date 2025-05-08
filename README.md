@@ -37,8 +37,9 @@
 - [UniCloud](#unicloud)
 - [Leaf Pallete](#leaf-pallete)
 - [Educt](#Educt)
-- [ABNMO](#ABNMO)
+- [ABNMO](#aBNMO)
 - [Tô Dentro Pass](#tô-dentro-pass)
+- [Turismendes](#turismendes)
 
 <hr/>
 
@@ -269,7 +270,7 @@ utilizado, proporcionando novas experiências ao usuário.
 
 ## ABNMO
 
-**Organização:** [IpêCode](https://github.com/ipecode) <br>
+**Organização:** [aBNMO](https://github.com/ipecode) <br>
 **Founder:** [Caio Nunes Santos](https://www.linkedin.com/in/caionscloud) <br>
 **Descrição do projeto:** Este projeto tem como objetivo desenvolver uma aplicação Web para Gestão dos assistidos da OSC ABNMO que acolhe pessoas com a doença Neuromielite Óptica.
 
@@ -280,3 +281,12 @@ utilizado, proporcionando novas experiências ao usuário.
 **Organização:** [Tô Dentro Pass](https://github.com/todentropass) <br>
 **Founder:** [Marcos Ramos](https://www.linkedin.com/in/marcos-ramos1/) <br>
 **Descrição do projeto:** A Tô Dentro Pass é uma plataforma de divulgação e acesso a eventos com intuito de proporcionar eficiência e usabilidade a seus usuários. O projeto tem como objetivo utilizar elementos de arquitetura moderna de software e proporcionar a troca de conhecimento entre seus integrates.
+
+<hr/>
+
+## Turismendes
+
+**Organização:** [turismendes](https://github.com/SomosDevTech) <br>
+**Founder**: [Mario Frederico Castilho](https://www.linkedin.com/in/mariofrederico/) <br>
+**Descrição do projeto**:
+O Turismendes é um projeto que visa transformar a cidade de Mendes em uma referência de turismo inteligente, integrando tecnologia, cultura e inovação. O objetivo é criar uma plataforma que centralize informações sobre atrações turísticas, eventos, gastronomia, trilhas e hospedagem, utilizando QR codes e um CMS para facilitar a atualização das informações, proporcionando uma experiência interativa para visitantes e moradores. O projeto busca valorizar as riquezas locais e fomentar o desenvolvimento econômico e cultural da cidade.
